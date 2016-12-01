@@ -15,7 +15,7 @@
 
 <p>!!!————Incase of the rare occurrence that full details/images do not show. Go back to the Table view and click the track again and the details should be fully there.————!!</p>
 
-<p><b>Additinal Feature</b></p>
+<p><b>Additinal Features</b></p>
 
 </ul><li>Search for album,tracks,artists</li>
 <li>Social Media Integration</li>
