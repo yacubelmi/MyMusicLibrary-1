@@ -1,6 +1,6 @@
 # MyMusicLibrary-1
 
-<p>iOS Application Features</p>
+<p><b>iOS Application Features</b></p>
 
 <ul>
 <li>LastFM API</li>
@@ -15,7 +15,7 @@
 
 <p>!!!————Incase of the rare occurrence that full details/images do not show. Go back to the Table view and click the track again and the details should be fully there.————!!</p>
 
-<p>Additinal Feature</p>
+<p><b>Additinal Feature</b></p>
 
 </ul><li>Search for album,tracks,artists</li>
 <li>Social Media Integration</li>
