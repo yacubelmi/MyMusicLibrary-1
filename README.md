@@ -1,6 +1,6 @@
 # MyMusicLibrary-1
 
-<ul><p>iOS Application Features</p>
+><p>iOS Application Features</p><ul>
 <li>LastFM API</li>
 <li>Album Details</li>
 <li>Artist Details</li>
